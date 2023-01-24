@@ -1,12 +1,5 @@
 <div>
-  <p style="	text-transform: uppercase;
-letter-spacing: .5em;display: inline-block;border: 4px double rgba(255,255,255,.25);border-width: 4px 0;padding: 1.5em 0em;position: absolute;top: 18%;left: 50%;width: 40em;margin: 0 0 0 -20em;">
-  Spice up your type with CSS
-  <span style="font: 700 4em/1 "Oswald", sans-serif;letter-spacing: 0;padding: .25em 0 .325em;display: block;margin: 0 auto;text-shadow: 0 0 80px rgba(255,255,255,.5);background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;-webkit-background-clip: text;background-clip: text;-webkit-text-fill-color: transparent;-webkit-animation: aitf 80s linear infinite;-webkit-transform: translate3d(0,0,0);-webkit-backface-visibility: hidden;">
-    Animated text fill
-  </span>
-
-</p>
+  <h1 style="text-align:center;">feerny</h1>
   <p>Hi my name is felipe, i am a junior programmer from colombia with knowledge in back-end using python, Django,java,node js, express and php; in databases using mysql and mongoDb; in front-end using html, css, javascript, React,angular and Boostrap.</p>
   <p>I am an autonomous person because I like to study and learn more about the world of programming and I am looking forward to get more experience together.</p>
 </div>
