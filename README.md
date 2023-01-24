@@ -39,7 +39,8 @@
   <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Rafa-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Rafa-Vercel" height="30" width="40" src="https://skillicons.dev/icons?theme=light&perline=8&i=vercel">
-  <img align="center" alt="Rafa-Railway" height="40" width="40" src="https://railway.app/brand/logo-dark.png">
+  <img align="center" alt="Rafa-Railway" height="40" width="40" src="https://railway.app/brand/logo-dark.png">  
+  <img align="center" alt="Rafa-PowerBi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png">
 
 </div>
 
