@@ -1,4 +1,9 @@
-<h1 style="text-align:center;">feerny</h1>
+<div>
+  <h1 style="text-align:center;">feerny</h1>
+  <p>Hi my name is felipe, i am a junior programmer from colombia with knowledge in back-end using python, Django,java,node js, express and php; in databases i using mysql and mongoDb; in front-end using html, css, javascript, React,angular and Boostrap.</p>
+  <p>I am an autonomous person because I like to study and learn more about the world of programming and I am looking forward to having more experience together.</p>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/feerny">
