@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/feerny">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feerny&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feerny&PAT_1=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&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feerny&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
