@@ -1,6 +1,6 @@
 <div>
   	<h1 align="center">:bust_in_silhouette:feerny</h1>
-  <p>Hi my name is felipe, i am a junior programmer from colombia with knowledge in back-end using python, Django,java,node js, express and php; in databases using mysql and mongoDb; in front-end using html, css, javascript, React,angular and Boostrap.</p>
+  <p>Hi my name is felipe, i am a junior programmer from colombia with knowledge in back-end using python, Django,java,node js,Typescript express and php; in databases using mysql and mongoDb; in front-end using html, css, javascript, React,angular and Boostrap.</p>
   <p>I am an autonomous person because I like to study and learn more about the world of programming and I am looking forward to get more experience together.</p>
 </div>
 
@@ -24,6 +24,7 @@
   <p>- <b>- Back-End</b></p>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">  
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
