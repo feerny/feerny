@@ -1,5 +1,5 @@
 <div>
-  	<h1 align="center">:bust_in_silhouette:feerny</h1>
+  	<h1 align="center">:bust_in_silhouette:feerny/Felipe Ferrer</h1>
   <p>Hi my name is felipe, i am a junior programmer from colombia with knowledge in back-end using python, Django,java,node js, Typescript, express and php; in databases using mysql and mongoDb; in front-end using html, css, javascript, React,angular and Boostrap.</p>
   <p>I am an autonomous person because I like to study and learn more about the world of programming and I am looking forward to get more experience together.</p>
 </div>
