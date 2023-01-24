@@ -1,3 +1,4 @@
+<link rel="stylesheet" src="styles.css">
 <div>
   <h1 style="text-align:center;">feerny</h1>
   <p>Hi my name is felipe, i am a junior programmer from colombia with knowledge in back-end using python, Django,java,node js, express and php; in databases using mysql and mongoDb; in front-end using html, css, javascript, React,angular and Boostrap.</p>
