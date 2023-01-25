@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/feerny">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feerny&show_icons=true&theme=tokyonight&PAT_1=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"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feerny&layout=compact&theme=tokyonight&PAT_1=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"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feerny&show_icons=true&theme=tokyonight&PAT_1=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"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feerny&layout=compact&theme=tokyonight&PAT_1=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"/>
 </div>
 
 <div style="display: inline_block"><br>
