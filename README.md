@@ -29,7 +29,7 @@
   <img align="center" alt="Rafa-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">  
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">  
+  <img align="center" alt="Rafa-Django" height="40" width="50" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">  
   <hr>
   <p>- <b>- Data Bases</b></p>
   <img align="center" alt="Rafa-Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
