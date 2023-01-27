@@ -29,7 +29,7 @@
   <img align="center" alt="Rafa-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">  
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Django" height="40" width="60" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">  
+  <img align="center" alt="Rafa-Django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">  
   <hr>
   <p>- <b>- Data Bases</b></p>
   <img align="center" alt="Rafa-Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -47,7 +47,7 @@
   <img align="center" alt="Rafa-VCode" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">    
   <img align="center" alt="Rafa-Api" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165022.png">    
   <img align="center" alt="Rafa-Https" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1553/1553678.png">  
-  <img align="center" alt="Rafa-Cloudinary" height="40" width="40" src="https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15/cloudinary_icon.png">  
+  <img align="center" alt="Rafa-Cloudinary" height="40" width="60" src="https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15/cloudinary_icon.png">  
 
 </div>
 
