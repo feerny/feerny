@@ -19,7 +19,6 @@
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Angular" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">  
   <img align="center" alt="Rafa-Ionic" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png">
   <hr>
   <p>- <b>- Back-End</b></p>
