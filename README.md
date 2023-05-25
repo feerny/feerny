@@ -19,7 +19,8 @@
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Ionic" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png">
+  <img align="center" alt="Rafa-Ionic" height="40" width="40" src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png">
+    <img align="center" alt="material-ui" height="40" width="40" src="https://mui.com/static/logo.png">
   <hr>
   <p>- <b>- Back-End</b></p>
   <img align="center" alt="Rafa-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
